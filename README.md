@@ -8,6 +8,7 @@
 6. Additionally, a radio receiver HK-TR6A V2 is connected to the microcontroller board (only during manual flights)
 7. Making a model of the rocket control system in the matlab\simulink program and generating code
 8. Using Discovery board as a programmer
+9. Devices communicate with each other via CAN bus
 ## 2 Hardware structure
 ![image](https://user-images.githubusercontent.com/117314126/200580335-192bd55e-0285-4452-baf0-71f1489f34c2.png)
 
