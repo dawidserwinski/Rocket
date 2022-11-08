@@ -24,7 +24,9 @@ In the figure 1, hardware structure is performed. In the green frame there are d
 ![image](https://user-images.githubusercontent.com/117314126/200577310-a089de21-4c14-4522-934b-6b33859d2f5f.png)
 
                               Figure 4 Control system with connected radio receiver
-![image](https://user-images.githubusercontent.com/117314126/200578606-fc550135-b600-49d3-acb4-fa103c5473da.png)![image](https://user-images.githubusercontent.com/117314126/200579218-5599c7d3-d865-42d4-a61f-250b59a49cc5.png)
+![image](https://user-images.githubusercontent.com/117314126/200578606-fc550135-b600-49d3-acb4-fa103c5473da.png)![IMG_20220824_190933250](https://user-images.githubusercontent.com/117314126/200598105-c991b49b-cb14-49d1-abed-e34c5a53f636.jpg)
+
+
 
 
                               Figure 5 Control system with mounted control surfaces and rocket view
